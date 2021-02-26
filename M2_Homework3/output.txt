@@ -1,0 +1,23 @@
+I'm going to calculate your HeartRate, provide me please:
+Your name:
+Emilio
+Last name:
+Pérez de Juan
+Month of birth:
+2
+Day of birth:
+13
+Year of birth:
+2001
+Pls provide me the current date.
+Month:
+2
+Day:
+26
+Year:
+2021
+Hi Emilio Pérez de Juan
+Your age is: 20
+Your maximum target Rate is: 200
+Your target heart rate should be between:
+100 and 170
